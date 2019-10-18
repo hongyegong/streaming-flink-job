@@ -1,0 +1,5 @@
+com/google/cloud/flink/operator/StreamingJob$2.class
+com/google/cloud/flink/operator/StreamingJob$WordWithCount.class
+com/google/cloud/flink/operator/StreamingJob.class
+com/google/cloud/flink/operator/BatchJob.class
+com/google/cloud/flink/operator/StreamingJob$1.class
